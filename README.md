@@ -29,7 +29,7 @@ Actually I am living in Granada (Spain) one of the most beautiful cities in Spai
 ## Personal Projects
 
 + [**Mi coleccion**](https://raulg91.pythonanywhere.com/) This is a flask apllication that will allow you to organise your videogame collection. Users can create a profile and store all new items added to his/her collection. It will make easy to get all details about your videogames collection, such as price, platform, state, etc... Flask app uses a MySQL database to store all the information about users and items. Frontend is done using HTML and CSS. It is still under contruction!
-+ [**Weeding website**](https://sunny-atrium-401808.lm.r.appspot.com/) I will get married on April 13th 2024, so I created a samll website with information about the event and also a form to confirm assitance. It also uses Flask in combination wiht HTML, CSS and Javascript. The information about invitees is store in a Google sheet, which make easy to modify or check it. I used APIs provided by Google to achieve it. This application is deployed into Google cloud. 
++ [**Weeding website**](https://www.bodamariaraul.net) I will get married on April 13th 2024, so I created a small website with information about the event and also a form to confirm assitance. It also uses Flask in combination wiht HTML, CSS and Javascript. The information about invitees is store in a Google sheet, which make easy to modify or check it. I used APIs provided by Google to achieve it. This application is deployed into Google cloud. 
 
 ## Certifications and courses
 
@@ -40,11 +40,18 @@ Actually I am living in Granada (Spain) one of the most beautiful cities in Spai
 + [Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database](https://learn.microsoft.com/api/achievements/share/en-us/RaulGarciaPedrosa-8104/3MEKV2H9?sharingId=AF188BB008F27061)
 + [Develop Azure Functions](https://learn.microsoft.com/api/achievements/share/en-us/RaulGarciaPedrosa-8104/UWP7DMZ3?sharingId=AF188BB008F27061)
 + [Technology Knowledge 2021 - User Experience - SAP Fiori End-2-End Workshop](https://www.youracclaim.com/badges/cc687b04-2303-44e6-a89c-e7241ee06b2d?source=linked_in_profile)
++ [Udemy course for Python](https://www.udemy.com/certificate/UC-aadf65dd-2106-45c0-83d3-fe0a8ea51424/)
 
 ## I’m currently learning
++ My learning roadmap for 2024 is: 
+    + Review fundamentals for **Python**: To do that will follow exercises proposed by a spanish streamer (Mouredev) in Twitch. Every week he will propose an exercirse which will be used as a roadmap to learn every languge. [Link to the web](https://retosdeprogramacion.com/) and the [repository](https://github.com/mouredev/roadmap-retos-programacion) with all my contributions
+    + Learn about [Reflex](https://reflex.dev/): This is a Python framework that could be used to build entire web application using only python.
+    + Learn more about [FastAPI](https://fastapi.tiangolo.com/)
 
-+ [Udemy course for Python](https://www.udemy.com/share/101qUa3@9sUR_AsD-yuSpEYSxf75zgOh1U7h-xCLJXmSoyqGyL6V02OEXxjXwnEx1SmYeu-mTg==/)
-+ [Retos programacion Mouredev](https://retosdeprogramacion.com/): This initiative is done by a Spanish streamer (Mouredev) in Twitch, every week he proposes a new exercise to be resolved during the week. See [repository](https://github.com/mouredev/retos-programacion-2023) with all my contributions
+## Projects for 2024
+
++ Create my portfolio using Reflex
++ Use FastApi to develop an API with MongoDB and deploy it. 
 
 <!--
 **raulG91/raulG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
