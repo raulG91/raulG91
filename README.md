@@ -12,11 +12,14 @@ Actually I am living in Granada (Spain) one of the most beautiful cities in Spai
 
 + SAP HCM 
 + SAP Cloud Platform Integration
-+ SAP BTP 
++ SAP BTP
++ SAP UI5
++ SAP CAP
 + Workforce software 
 + MySQL
 + Google cloud
-+ Azure
++ MongoDB
++ NodeJS
 
 ## Programing languages
 
@@ -24,12 +27,16 @@ Actually I am living in Granada (Spain) one of the most beautiful cities in Spai
 + [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 + [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 + [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-+ [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
++ [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
 ## Personal Projects
 
 + [**Mi coleccion**](https://raulg91.pythonanywhere.com/) This is a flask apllication that will allow you to organise your videogame collection. Users can create a profile and store all new items added to his/her collection. It will make easy to get all details about your videogames collection, such as price, platform, state, etc... Flask app uses a MySQL database to store all the information about users and items. Frontend is done using HTML and CSS. It is still under contruction!
-+ [**Weeding website**](https://www.bodamariaraul.net) I will get married on April 13th 2024, so I created a small website with information about the event and also a form to confirm assitance. It also uses Flask in combination wiht HTML, CSS and Javascript. The information about invitees is store in a Google sheet, which make easy to modify or check it. I used APIs provided by Google to achieve it. This application is deployed into Google cloud. 
++ [**Weeding website**](https://www.bodamariaraul.net) I got married on April 13th 2024, so I created a small website with information about the event and also a form to confirm assitance. It also uses Flask in combination wiht HTML, CSS and Javascript. The information about invitees is store in a Google sheet, which make easy to modify or check it. I used APIs provided by Google to achieve it. This application is deployed into Google cloud. 
++ [**Pollen app**](https://pollen_app-blue-moon.reflex.run/): This application will show the pollen levels for all towns in Andalucia, Spain. Based on the province user will select the town and it will show pollen levels for next 5 days. The application is done with [**Reflex**](https://reflex.dev/) which is Python framework that allow us to create websites using pure python. To get pollen levels Google API is used. The application is deployed using the hosting provided by Reflex.
++ [**F1 API**](https://github.com/raulG91/f1_api): This is an API created using [**Express**](https://expressjs.com/). It will allow to manage information about a F1 season. To persist the information a MongoDB database will be used.
++ [**Granada Sport Backend**](https://github.com/raulG91/granada_sport_backend): This aim of this app is to publish sport event in a specific city. Users can check the events that will occur in the following days and participate on those events. The app will work as a placeholder for sport enthusiasts. App is done using FastAPI. Based on the use cases different endpoints have been created. The app will require user to autheticate to make some actions. To persist the data, Mysql database will be used. A Docker container has been created to run the application where the user wants.
+
 
 ## Certifications and courses
 
@@ -43,16 +50,11 @@ Actually I am living in Granada (Spain) one of the most beautiful cities in Spai
 + [Udemy course for Python](https://www.udemy.com/certificate/UC-aadf65dd-2106-45c0-83d3-fe0a8ea51424/)
 
 ## I’m currently learning
-+ My learning roadmap for 2024 is: 
-    + Review fundamentals for **Python**: To do that will follow exercises proposed by a spanish streamer (Mouredev) in Twitch. Every week he will propose an exercirse which will be used as a roadmap to learn every languge. [Link to the web](https://retosdeprogramacion.com/) and the [repository](https://github.com/mouredev/roadmap-retos-programacion) with all my contributions
-    + Learn about [Reflex](https://reflex.dev/): This is a Python framework that could be used to build entire web application using only python.
-    + Learn more about [FastAPI](https://fastapi.tiangolo.com/)
++ Learning React and complete [Fullstack course](https://fullstackopen.com/en/)
 
-## Projects for 2024
-
-+ Create my portfolio using Reflex
-+ Use FastApi to develop an API with MongoDB and deploy it. 
-
+## Projects for 2025
++ Create a fullstack project using React and NodeJS
++ Use FastApi to develop an API for a backend
 <!--
 **raulG91/raulG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
